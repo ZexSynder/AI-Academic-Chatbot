@@ -113,7 +113,7 @@ Usaktif dapat digunakan untuk menjawab pertanyaan seperti:
 
 ### Chatbot Demo
 
-https://github.com/user-attachments/assets/920d16c6-ac01-4bfa-8c96-1bf7d052b6d2
+https://github.com/user-attachments/assets/3db298e2-d10a-4e84-b8ec-35852b98cb7b
 
 ## 🎯 Project Objective
 
